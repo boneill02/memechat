@@ -1,12 +1,12 @@
-# FloppaChat
+# MemeChat
 
 Connect with others through Impact memes. A chat app where each message is a
-meme. This is the API, which will hopefully be used to create a web interface.
+meme. Currently, an API and chat server are implemented.
 
 ## Hosting
 
 ```
-cd src/floppachat
+cd src/memechat
 python api.py # start API
 python chat.py # start chat server
 ```

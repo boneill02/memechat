@@ -12,12 +12,12 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../src/floppachat'))
+sys.path.insert(0, os.path.abspath('../src/memechat'))
 
 
 # -- Project information -----------------------------------------------------
 
-project = 'FloppaChat'
+project = 'MemeChat'
 copyright = "2022, Ben O'Neill"
 author = "Ben O'Neill"
 
